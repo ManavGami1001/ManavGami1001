@@ -30,17 +30,12 @@ I'm a third-year Computer Science & Engineering student with a specialization in
 
 ## 📊 GitHub Statistics
 
-[![ManavGami1001's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManavGami1001&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![ManavGami1001's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManavGami1001&show_icons=true&theme=radical&hide_border=true)]
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManavGami1001&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManavGami1001&layout=compact&theme=radical&hide_border=true)]
 
 ## 🎯 Areas of Expertise
 
-- **Machine Learning:** Supervised Learning, Unsupervised Learning, Classification, Regression
-- **Deep Learning:** Neural Networks, CNNs, RNNs, Transformers
-- **Data Science:** Data Cleaning, EDA, Feature Engineering, Data Visualization
-- **Web Development:** Full-Stack Development, REST APIs, Responsive Design
-- **Problem Solving:** Algorithm Design, Competitive Programming, Data Structures
 
 ## 🌐 Let's Connect
 
