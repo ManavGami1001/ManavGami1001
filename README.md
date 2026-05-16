@@ -30,7 +30,7 @@ I'm a third-year Computer Science & Engineering student with a specialization in
 
 ## 📊 GitHub Statistics
 
-[![ManavGami1001's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManavGami1001&show_icons=true&theme=radical&hide_border=true)]
+[![ManavGami1001's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManavGami1001&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManavGami1001&layout=compact&theme=radical&hide_border=true)]
 
